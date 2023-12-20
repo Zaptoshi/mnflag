@@ -12,7 +12,7 @@
 
 <p>The following file formats are available in this repository:</p>
 
-<ul> <li><strong>SVG</strong>: Scalable Vector Graphics format</li> <li><strong>PNG</strong>: Portable Network Graphics format</li> <li><strong>JPG</strong>: Joint Photographic Experts Group format</li> <li><strong>PDF</strong>: Portable Document Format</li> <li><strong>EPS</strong>: Encapsulated PostScript format</li> </ul>
+<ul> <li><a href="#"><strong>SVG</strong></a>: Scalable Vector Graphics format</li> <li><a href="#"><strong>PNG</strong></a>: Portable Network Graphics format</li> <li><a href="#"><strong>JPG</strong></a>: Joint Photographic Experts Group format</li> <li><a href="#"><strong>PDF</strong></a>: Portable Document Format</li> <li><a href="#"><strong>EPS</strong></a>: Encapsulated PostScript format</li> </ul>
 
 <h2>Usage</h2>
 
