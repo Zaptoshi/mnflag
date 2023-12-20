@@ -22,6 +22,6 @@
   <li><a href="https://github.com/Zaptoshi/mnflag/blob/main/New%20Minnesota%20Flag.eps"><strong>EPS</strong></a>: Encapsulated PostScript format</li> 
 </ul>
 
-<h2>Usage</h2>
+<h2>Usage / Disclaimer</h2>
 
 <p>The files available in the repository are NOT OFFICIAL files from the State of Minnesota, but rather a recreation by me to be as accurate and true to the official design as possible. To use these files, simply download the file format you need and import it into your project. The vector files can be scaled to any size without loss of quality, making them ideal for large-scale printing. If you need more information about the Minnesota State Flag, you can visit the official website of the Minnesota Secretary of State.</p>
