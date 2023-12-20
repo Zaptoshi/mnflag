@@ -6,9 +6,9 @@
 
 <h2>Colors</h2>
 
-<p>The following are the three colors of the flag, which can be easily copied and pasted:</p>
+<p>The following are the three colors of the flag, in HEX format, which can be easily copied and pasted:</p>
 
-<ul> <li>Dark Blue Hex: <strong>#002E5E</strong></li> <li>Light Blue Hex: <strong>#44C8E9</strong></li> <li>Star Hex: <strong>#FFFFFF</strong></li> </ul>
+<ul> <li>Dark Blue (Hex): <strong>#002E5E</strong></li> <li>Light Blue (Hex): <strong>#44C8E9</strong></li> <li>Star (Hex): <strong>#FFFFFF</strong></li> </ul>
 
 <h2>File Formats</h2>
 
