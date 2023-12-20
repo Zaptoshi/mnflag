@@ -3,6 +3,7 @@
 <p>This repository contains art files for the new Minnesota State Flag. The files are available in 4K resolution and vector format.</p>
 
 <img src="https://github.com/Zaptoshi/mnflag/blob/main/New%20Minnesota%20Flag%20(Horizontal)%20-%204K.png?raw=true" alt="New Minnesota Flag (Horizontal)" width="800" height="480">
+<img src="https://github.com/Zaptoshi/mnflag/blob/main/New%20Minnesota%20Flag%20(Vertical)%20-%204K.png?raw=true" width="800" height="480">
 
 <h2>Colors</h2>
 
