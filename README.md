@@ -24,4 +24,4 @@
 
 <h2>Usage</h2>
 
-<p>To use these files, simply download the file format you need and import it into your project. The vector files can be scaled to any size without loss of quality, making them ideal for large-scale printing.</p>
+<p>The files available in the repository are not official files, but rather a recreation by me to be accurate and true to the design as possible. To use these files, simply download the file format you need and import it into your project. The vector files can be scaled to any size without loss of quality, making them ideal for large-scale printing. If you need more information about the Minnesota State Flag, you can visit the official website of the Minnesota Secretary of State.</p>
