@@ -7,8 +7,6 @@
   <img src="https://github.com/Zaptoshi/mnflag/blob/main/New Minnesota Flag (Vertical) - 4K.png?raw=true" style="max-width: 100%; max-height: 100vh;">
 </div>
 
-
-
 <h2>Colors</h2>
 
 <p>The following are the three colors of the flag, which can be easily copied and pasted:</p>
